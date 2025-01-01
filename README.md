@@ -1,2 +1,2 @@
-# betee.pl
-betee.pl website code
+# BETEE.PL
+- webiste code / files for betee.pl
